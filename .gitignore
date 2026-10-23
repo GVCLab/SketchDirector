@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output_sketches/
+results/
+memory/
+wandb/
+models/
+*.mp4
+.DS_Store

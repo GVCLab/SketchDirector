@@ -1,0 +1,5 @@
+-r requirements.txt
+diffusers==0.35.1
+transformers==4.49.0
+tqdm==4.66.5
+wandb==0.22.3

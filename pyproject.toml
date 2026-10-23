@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sketchdirector"
+version = "0.2.0"
+description = "Automatic Multi-Concept Scene Sketching with Coding Agents"
+requires-python = ">=3.10"
+dependencies = [
+  "openai", "python-dotenv", "numpy", "torch", "Pillow", "cairosvg",
+  "imageio", "svgpathtools", "shapely", "beautifulsoup4"
+]
+
+[project.scripts]
+sketchdirector = "sketchdirector.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sketchdirector*"]
