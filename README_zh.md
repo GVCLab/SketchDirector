@@ -1,12 +1,14 @@
-<div align="center">
+<div align="left">
 
-# SketchDirector
+<h1>
+  <img src="./img/logo.png" alt="Logo" width="45" style="vertical-align: middle; position: relative; top: -3px;" />
+  SketchDirector
+</h1>
 
-### 基于智能体布局推理与细节优化的复杂场景草图生成
+<h3>基于智能体布局推理与细节优化的复杂场景草图生成</h3>
 
 [[项目主页](https://yiki77.github.io/SketchDirector/)]
 [[数据集MCSketch8K](https://huggingface.co/datasets/yiki77/MCSketch8K)]
-<!-- 论文正式公开后补充 arXiv / 论文链接。 -->
 
 </div>
 
@@ -226,18 +228,3 @@ The resulting sketches will be saved to the "output_sketches" folder, in SVG for
 ```
 
 > 上述为临时引用信息，论文正式公开后请补充准确的发表信息。
-
----
-
-## 📄 开源许可证（License）
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
