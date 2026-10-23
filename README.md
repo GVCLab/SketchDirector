@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
 
 <h1>
-  <img src="./img/logo.png" alt="Logo" width="45" align="center">
+  <img src="./img/logo.png" alt="Logo" width="45" style="vertical-align: middle; position: relative; top: -3px;" />
   SketchDirector
 </h1>
 
