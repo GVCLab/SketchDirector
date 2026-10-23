@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <h1>
   <img src="./img/logo.png" alt="Logo" width="45" style="vertical-align: middle; position: relative; top: -3px;" />
@@ -6,6 +6,8 @@
 </h1>
 
 <h3>基于智能体布局推理与细节优化的复杂场景草图生成</h3>
+<h4>Yiqi Liang and Xiaodong Cun∗</h4>
+<h4>GVC Lab, Great Bay University</h4>
 
 [[项目主页](https://yiki77.github.io/SketchDirector/)]
 [[数据集MCSketch8K](https://huggingface.co/datasets/yiki77/MCSketch8K)]
