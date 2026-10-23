@@ -1,14 +1,14 @@
 <div align="center">
 
-# SketchDirector
+<h1>
+  <img src="./img/logo.png" alt="Logo" width="45" align="center">
+  SketchDirector
+</h1>
 
-### Complex Sketching via Agentic Layout Reasoning and Detail Refinement
+<h3>Complex Sketching via Agentic Layout Reasoning and Detail Refinement</h3>
 
 [[Project Page](https://yiki77.github.io/SketchDirector/)]
 [[Dataset MCSketch8K](https://huggingface.co/datasets/yiki77/MCSketch8K)]
-
-
-<!-- Add the arXiv / paper link once the paper is publicly available. -->
 
 </div>
 
@@ -229,17 +229,3 @@ If SketchDirector is helpful for your research, please consider citing our work.
 ```
 
 > This is a temporary citation. Please update it with the official publication details once the paper becomes publicly available.
-
----
-
-## 📄 License
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
