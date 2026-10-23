@@ -9,8 +9,20 @@
 <h4>Yiqi Liang and Xiaodong Cun∗</h4>
 <h4>GVC Lab, Great Bay University</h4>
 
-[[项目主页](https://yiki77.github.io/SketchDirector/)]
-[[数据集MCSketch8K](https://huggingface.co/datasets/yiki77/MCSketch8K)]
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/English-1a1a2e?style=for-the-badge">
+  </a>
+  <a href="README_zh.md">
+    <img src="https://img.shields.io/badge/中文版-1a1a2e?style=for-the-badge">
+  </a>
+  <a href="https://yiki77.github.io/SketchDirector/">
+    <img src="https://img.shields.io/badge/项目主页-1a1a2e?style=for-the-badge">
+  </a>
+  <a href="https://huggingface.co/datasets/yiki77/MCSketch8K">
+    <img src="https://img.shields.io/badge/数据集MCSketch8K-1a1a2e?style=for-the-badge">
+  </a>
+</p>
 
 </div>
 
