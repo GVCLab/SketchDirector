@@ -2,12 +2,11 @@
 
 <h1>
   <img src="./img/logo.png" alt="Logo" width="45" style="vertical-align: middle; position: relative; top: -3px;" />
-  SketchDirector
+  SketchDirector: Complex Sketching via Agentic Layout Reasoning and Detail Refinement
 </h1>
 
-<h3>Complex Sketching via Agentic Layout Reasoning and Detail Refinement</h3>
 <h4>Yiqi Liang and Xiaodong Cun∗</h4>
-<h4>GVC Lab, Great Bay University</h4>
+<h5>GVC Lab, Great Bay University</h5>
 
 [[Project Page](https://yiki77.github.io/SketchDirector/)]
 [[Dataset MCSketch8K](https://huggingface.co/datasets/yiki77/MCSketch8K)]
