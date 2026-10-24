@@ -2,7 +2,7 @@
 
 <h1>
   <img src="./img/logo.png" alt="Logo" width="45" style="vertical-align: middle; position: relative; top: -3px;" />
-  SketchDirector: Complex Sketching via Agentic Layout Reasoning and Detail Refinement
+  SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement
 </h1>
 
 <h4>Yiqi Liang and Xiaodong Cun∗</h4>
