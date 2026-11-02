@@ -9,6 +9,9 @@
 <h5>GVC Lab, Great Bay University</h5>
 
 <p align="center">
+   <a href="[README.md](https://arxiv.org/abs/2610.41260)">
+    <img src="https://img.shields.io/badge/ArXiv-1a1a2e?style=for-the-badge">
+  </a>
   <a href="README.md">
     <img src="https://img.shields.io/badge/English-1a1a2e?style=for-the-badge">
   </a>
