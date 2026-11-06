@@ -6,25 +6,37 @@
 </h1>
 
 <h3>基于智能体布局推理与细节优化的复杂场景草图生成</h3>
-<h4>Yiqi Liang and Xiaodong Cun∗</h4>
-<h4>GVC Lab, Great Bay University</h4>
-
 <p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/English-1a1a2e?style=for-the-badge">
-  </a>
-  <a href="README_zh.md">
-    <img src="https://img.shields.io/badge/中文版-1a1a2e?style=for-the-badge">
-  </a>
-  <a href="https://yiki77.github.io/SketchDirector/">
-    <img src="https://img.shields.io/badge/项目主页-1a1a2e?style=for-the-badge">
-  </a>
-  <a href="https://huggingface.co/datasets/yiki77/MCSketch8K">
-    <img src="https://img.shields.io/badge/数据集MCSketch8K-1a1a2e?style=for-the-badge">
-  </a>
+  <strong>Yiqi Liang and Xiaodong Cun∗</strong>
+  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  GVC Lab, Great Bay University
 </p>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2610.41260">
+    <img src="img/badges/arxiv.svg" height="38">
+  </a>
+  <a href="README.md">
+    <img src="img/badges/english_zh.svg" height="38">
+  </a>
+  <a href="README_zh.md">
+    <img src="img/badges/chinese.svg" height="38">
+  </a>
+  <a href="https://yiki77.github.io/SketchDirector/">
+    <img src="img/badges/project_page_zh.svg" height="38">
+  </a>
+  <a href="https://huggingface.co/datasets/yiki77/MCSketch8K">
+    <img src="img/badges/datasetz_zh.svg" height="38">
+  </a>
+  <br>
+  <img src="img/interactive_tip.svg" width="800" alt="Interactive SVG editing" />
+</p>
 </div>
+<p align="center">
+  <a href="https://yiki77.github.io/SketchDirector/"><img src="https://raw.githubusercontent.com/GVCLab/SketchDirector/main/img/gif/chicken.gif" width="32%" alt="Chef Demo"></a>
+  <a href="https://yiki77.github.io/SketchDirector/"><img src="https://raw.githubusercontent.com/GVCLab/SketchDirector/main/img/gif/city.gif" width="32%" alt="City Demo"></a>
+  <a href="https://yiki77.github.io/SketchDirector/"><img src="https://raw.githubusercontent.com/GVCLab/SketchDirector/main/img/gif/duck.gif" width="32%" alt="Ducks Demo"></a>
+</p>
 
 
 ## 💡 概述
@@ -37,14 +49,17 @@
   <img src="./img/main_framework.jpg" alt="SketchDirector 方法框架" width="100%" />
 </p>
 
-**核心特点：**
 
-- **独立可编辑的矢量资产：** 将场景中的视觉概念表示为独立 SVG 对象。
-- **智能体布局推理：** 通过 Plan–Execute–Verify–Correct 闭环，逐步构建与修正空间布局。
-- **自演化记忆机制：** 利用短期失败记忆与长期成功经验辅助布局修正。
-- **结构感知细节优化：** 在保持对象结构与空间布局的前提下，提升局部细节和整体视觉质量。
+<h2>✨ Key Features</h2>
 
----
+<p align="center">
+  <img
+    src="img/key_features_zh.svg"
+    alt="SketchDirector Key Features"
+    width="100%"
+  />
+</p>
+
 ## 📊 MCSketch8K 数据集
 
 为支持**多概念场景草图生成与可控编辑**相关研究，我们构建了结构化数据集 **MCSketch8K**，包含 **1,000 个场景草图、超过 4,000 个独立可编辑的 SVG 对象资产，以及 800 多个对象类别**。
@@ -53,7 +68,11 @@
 
 数据集已公开发布于 [Hugging Face](https://huggingface.co/datasets/yiki77/MCSketch8K)。
 
----
+
+<p align="center">
+  <img src="img/gif/bus.gif" width="49%" alt="Bus Demo" />
+  <img src="img/gif/bee.gif" width="49%" alt="Bee Demo" />
+</p>
 
 ## 🚀 环境安装
 
@@ -229,15 +248,14 @@ The resulting sketches will be saved to the "output_sketches" folder, in SVG for
 
 如果 SketchDirector 对您的研究有所帮助，欢迎引用我们的工作。
 
-<!-- TODO：正式发表或公开论文后替换为官方 BibTeX。 -->
-
 ```bibtex
 @misc{liang2026sketchdirector,
-  title  = {SketchDirector: Complex Sketching via Agentic Layout Reasoning and Detail Refinement},
-  author = {Liang, Yiqi and Cun, Xiaodong},
-  year   = {2026},
-  note   = {Citation placeholder; update with the official publication details}
+  title={SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement},
+  author={Yiqi Liang and Xiaodong Cun},
+  year={2026},
+  eprint={2610.41260},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2610.41260}
 }
 ```
-
-> 上述为临时引用信息，论文正式公开后请补充准确的发表信息。
