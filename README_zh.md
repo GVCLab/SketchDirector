@@ -29,7 +29,6 @@
     <img src="img/badges/datasetz_zh.svg" height="38">
   </a>
   <br>
-  <img src="img/interactive_tip.svg" width="800" alt="Interactive SVG editing" />
 </p>
 </div>
 <p align="center">
