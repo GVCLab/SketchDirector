@@ -14,19 +14,19 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2610.41260">
-    <img src="img/badges/arxiv.svg" height="48">
+    <img src="img/badges/arxiv.svg" height="38">
   </a>
   <a href="README.md">
-    <img src="img/badges/english.svg" height="48">
+    <img src="img/badges/english.svg" height="38">
   </a>
   <a href="README_zh.md">
-    <img src="img/badges/chinese.svg" height="48">
+    <img src="img/badges/chinese.svg" height="38">
   </a>
   <a href="https://yiki77.github.io/SketchDirector/">
-    <img src="img/badges/project_page.svg" height="48">
+    <img src="img/badges/project_page.svg" height="38">
   </a>
   <a href="https://huggingface.co/datasets/yiki77/MCSketch8K">
-    <img src="img/badges/dataset.svg" height="48">
+    <img src="img/badges/dataset.svg" height="38">
   </a>
   <br>
   <img src="img/interactive_tip.svg" width="800" alt="Interactive SVG editing" />
