@@ -253,6 +253,3 @@ If SketchDirector is helpful for your research, please consider citing our work.
   url={https://arxiv.org/abs/2610.41260}
 }
 ```
-```
-
-> This is a temporary citation. Please update it with the official publication details once the paper becomes publicly available.
